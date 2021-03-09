@@ -1691,6 +1691,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-top: 10px;
   }
 }
-#tedx5 hover {
-  border: 5px red;
+#tedx5 {
+  border: 50px red;
 }
